@@ -1,0 +1,50 @@
+Location name,Control number,Description/Question,Bonus Questions
+Fruhoff starting point,NA,Starting point,NA
+Tip Shop,1,Tip Shop! No found item. See bonus question.,Macklemore bonus: x2 total point multiplier if you wear something from the tip shop for the entirety of the SOHO100.
+Nick’s Home.,2,Nick’s home! Find the two green bins. Add the serial numbers on the left hand side of the two green bins together. No Bonus Points,20 points: What date did Nick move here?
+Fruhoff cockatoo sculptures,3,Count the number of the black cockatoos in the sculpture near the bridge up from the playground. No Bonus Points.,None?
+Platypus viewing location - added,4,Platypus observation spot. What is the serial number in the bottom right corner of the white “slow” sign. See bonus points.,#ERROR!
+Women’s factory statue: TODO,5,Statue near Women’s factory. What is inscribed on the bottom of the statue? No Bonus Points.,
+Free book library on the rivulet track,6,Free library - what is thee part slogan on the library box? See Bonus Points.,Bonus 10 points: Per book book left there. Bonus 5 points per book stacked on head with photo proof.
+SOHO Hill street:,7,Hill Street SOHO! No found item.,Bonus 25 points: Buy and carry the cheapest soup vegetable you can from Hill Street.
+Hamlet,8,Found item: How many petals on the cafe logo on the brick wall? No bonus points.,NA
+WOTSO logo,9,Found items: How many lock boxes near the sliding doors?,WOTSO Wordle bonus. 1 = 100 points. 2 = 40 points. 3 = 25 points. 4 = 15 points. 5 = 10 points. 6 = 5 points. Fail = negative 10 points.
+Statue next to WOTSO,10,Statue with australian wildlife: Found item: How many echidnas in this statue?,"Bonus points: draw a picture, take a photo. Best drawing gets 20 points."
+Walch building,11,Walch building - What year was this building established?,15 Bonus points: Do a dance. 100 bonus points: Get a stranger to partner dance with you.
+Cat & Fiddle,12,"Found items: Cat & Fiddle Arcade: in the food court cat and fiddle, How many stars (including the clock) are there?",20 Bonus points: See the clock change and the dance happen
+Franklin Square,13,Franklin Square. Found items: The Apex Wishing Well was opened in what year?,30 bonus points: Somehow play a game of chess on the giant chessboard here.
+St Davids Park gazebo,14,"Gazebo. Found item: According to a clear plaque, this park was opened on what date?",
+Parliament House gardens,15,Near Gardens on footpath. What do the two lines of the poem on the footpath say?,25 Bonus points: What is this artwork called and who is the artist?
+IMAS sculpture,16,Sculpture of Roald Amundsen’s head. Who was the american sculpture who made the original plaster work?,"25 bonus points: On the red signpost near this, IMAS was founded in what year? 2010"
+CSIRO bench,17,"RV Investigator lookout. On the sign under the heading Traditional owners, what is the 9th word?","5 bonus points. If the RV investigator is still there, just take in that glorious boat. How good is that?"
+Frisbee: UTAS grounds,18,Grounds near wrest point. No found item. Bonus points available by playing a game of frisbee (there should be a frisbee stashed near the grounds),"15 bonus points. Throw a frisbee through a football goal/basketball hoop.
+
+UltraFris: 0.5 point per per metre (estimated) of an successful long distance frisbee throw."
+Pigeon Whole (Argyle St),19,Found item: How many baguettes is the boy carrying in his bag?,20 bonus points if you enjoy a pastry here.
+Sculpture near Victoria bridge,20,Found item: What is the name of the sculpture near the bridge?,15 bonus points if you take a selfie next to the camera sculpture.
+Hobart Brewing Co,21,Found item: Just outside the entrance there is a tall pole with stickers all over it. One says “___ Sunbird” What is the missing word?,20 Bonus point: drink a beverage here (water is OK).
+Pigeon Hole,22,Pigeon Hole. Found item: How much is it to add jam to a croissant?,Bonus points: Do the Saturday Morning “Good Weekend” Quiz. Your points are the number of points you get on the quiz.
+Queens Bakery,23,Queens bakery. What are the three bake times for fresh croissants here?,30 Bonus points (select two): Eat a croissant. Enjoy a coffee. Learn something new about your team mate.
+Knocklofty Bunker,24,Knocklofty bunker. How many steps up to the bunker?,Bonus points: Write a poem. Best poem wins the most points.
+Knocklofty picnic table,25,Knocklofty picnic table lookout. Find a sticker with a man wearing red and white. Who is this man?,Bonus points: list 5 facts that you know about Nick. The person with the most unique facts wins 10 points per unique fact. (Boggle rules)
+Knocklofty hidden chair,26,There’s a little staircase to a bench opposite a sign “painted on the spot”. How many steps up to the bench? No bonus points.,
+Knocklofty summit,27,"Knocklofty summit! According to the sign, how far is Mount Stuart Lookout from here?",Birdwatching bonus: 5 points per species of bird spotted from up here. Bonus 10 points for every (unique) bird photo you capture.
+Mt Stuart lookout,28,Mt Stuart Lookout! The concrete pizza slices in the ground come to a centre point. How many slices of pizza are there?.,20 bonus points: What country/continent does the space in the centre of the pizza slice tips most closely resemble?
+Hidden Bench,29,Hidden bench seat. Who is this bench seat dedicated to?,Bonus point: Another soup vegetable
+Hill Street West Hobart,30,Bring more soup vegetables,
+Preachers,End,Finish!,
+Bonus point multipliers,,"Bonus Points multipliers
+Visit all cafes on the list = 30 points. (Hamlet, Pigeon Whole, Pigeon Hole)
+
+Rock Soup = 40 points. Bring two soup vegetables to Preachers.
+
+Pigeon bonus = 20 points. Visit pigeon Hole and Pigeon Whole
+
+Echidna bonus: 10 points. if you see a (live) Echidna
+
+Monotreme bonus: 1000 points for seeing both a platypus and eechidna",
+Transport multipliers,,"Horseback = 25x total points
+On Foot = 10x total points
+Cycling = 5x total points
+Car = 1x total points
+% of each also allowed",

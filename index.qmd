@@ -1,0 +1,93 @@
+---
+title: "SOHO100"
+format: 
+  html:
+      toc: true
+---
+
+# Who
+
+You!
+
+# What
+
+The SOHO 100 is the first edition of the South Hobart Metrogaine/Scavenger hunt! A metrogaine is a form or [rogaine](https://rogaine.asn.au/about/what-is-rogaining) held in an urban environment.
+
+The goal is to get the most number of points.
+
+You get points by visiting the locations, which we call, "controls", which marked on the map.
+
+To verify that you have visited a location, there are "found items" on most controls
+
+There are also bonus points available on many controls.
+
+
+# Where / When
+
+Fruehoff at 11am
+
+```{r}
+#| echo: false
+library(leaflet)
+leaflet() |> 
+    addTiles() |> 
+    addMarkers(lng = 147.3012348499976,
+               lat = -42.893349257964054) |> 
+     addPopups(lng = 147.3012348499976,
+               lat = -42.893349257964054,
+               popup = 'Here is the where the <b>SOHO 100 begins!</b>')
+```
+
+# Why?
+
+It was created by Nick as a way to do something fun for his friends.
+
+# How?
+
+The event will run by 
+
+# Map
+
+You can download the map by clicking the links below
+
+- [SOHO 100 map](soho-100-35.pdf)
+
+# Clue sheet
+
+You can download the clue sheet below:
+
+- [clue sheet 2 pages](soho-100-35-clues.pdf)
+- [clue sheet 1 page](soho-100-35-clues-2p.pdf)
+
+You can also see the clue sheet at this table below:
+
+```{r}
+library(tidyverse)
+
+soho100 <- read_csv("soho-100-data.csv",
+                    show_col_types = FALSE,
+                    n_max = 32)
+
+DT::datatable(soho100,
+              options = list(
+                  pageLength = 33
+              ))
+```
+
+
+# Bonus point multiplies
+
+* Visit all cafes on the list = 30 points. (Hamlet, Pigeon Whole, Pigeon Hole)
+* Rock Soup =  40 points. Bring two soup vegetables to Preachers.
+* Pigeon bonus = 20 points. Visit pigeon Hole and Pigeon Whole
+* Echidna bonus: 10 points. if you see a (live) Echidna
+* Monotreme bonus:  1000 points for seeing both a platypus and eechidna
+
+
+# Transport multiplies
+
+* Horseback = 25x total points
+* On Foot = 10x total points
+* Cycling = 5x total points
+* Car = 1x total points
+* % of each also allowed
