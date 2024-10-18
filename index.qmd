@@ -3,6 +3,8 @@ title: "SOHO100"
 format: 
   html:
       toc: true
+execute: 
+  echo: false
 ---
 
 # Who
@@ -21,10 +23,13 @@ To verify that you have visited a location, there are "found items" on most cont
 
 There are also bonus points available on many controls.
 
+You can run the course in any order!
 
 # Where / When
 
-Fruehoff at 11am
+- 19th October 2024.
+- Start: [Fruehoff](https://maps.app.goo.gl/7J42vca1r6bNys6GA) at 11am.
+- End: [Preachers](https://g.co/kgs/SThQmgE) at 3pm.
 
 ```{r}
 #| echo: false
@@ -44,7 +49,9 @@ It was created by Nick as a way to do something fun for his friends.
 
 # How?
 
-The event will run by 
+The maps were created using https://oomap.dna-software.co.uk/
+
+This website was created using [Quarto](https://quarto.org/) + github + ✨magic.✨
 
 # Map
 
@@ -62,6 +69,7 @@ You can download the clue sheet below:
 You can also see the clue sheet at this table below:
 
 ```{r}
+options(tidyverse.quiet = TRUE)
 library(tidyverse)
 
 soho100 <- read_csv("soho-100-data.csv",
